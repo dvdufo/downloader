@@ -1,8 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [Obsidian-1.12.7](./Obsidian-1.12.7)
-- [ai-edge-gallery](./ai-edge-gallery)
-- [melishekan-nv_01](./melishekan-nv_01)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
